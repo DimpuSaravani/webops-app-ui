@@ -9,7 +9,7 @@ body {
     height: 100vh;
     background: 
         linear-gradient(rgba(0,0,0,0.22), rgba(0,0,0,0.22)),
-        url("abstract-smooth-blue-white-wave-mesh-gradient-back-vector-31035098.avif");
+        url("bg.jpg");
 
     background-size: cover;
     background-position: center;
